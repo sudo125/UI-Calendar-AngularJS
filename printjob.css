@@ -1,0 +1,21 @@
+body{
+    margin: 0 auto;
+    width: 80%;
+    background-color: mintcream;
+}
+#heading{
+    text-align: center;
+}
+
+@media only screen and (max-width:500px) {
+    .footerAtt{
+        width:100%; 
+    }
+        
+}
+@media only screen  and (min-device-width: 501px)  and (max-device-width: 950px){
+        
+        .footerAtt{
+            width:100%;
+        }
+    }

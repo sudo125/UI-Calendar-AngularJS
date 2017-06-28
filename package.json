@@ -1,0 +1,20 @@
+{
+  "name": "angularjs_calendar_ui",
+  "version": "1.0.0",
+  "description": "This is a AngularJS application where I have used Angular UI-Calendar. ",
+  "main": "printfile.js",
+  "dependencies": {
+    "@uirouter/angularjs": "^1.0.4",
+    "angular-bootstrap": "^0.12.2",
+    "angular-moment": "^1.0.1",
+    "angular-ui-calendar": "^1.0.2",
+    //"angular-ui-router": "^1.0.3",
+    "moment": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sudipta",
+  "license": "ISC"
+}
